@@ -1,13 +1,34 @@
 {
-  "version": "V4.7",
-  "files": {
-    "AcrylicHosts_All.dat": "https://snib.racpast.com/files/AcrylicHosts_All.dat",
-    "SystemHosts_All.dat": "",
-    "SwitchData.json": "https://snib.racpast.com/files/SwitchData.json",
-    "SNIBypassCrt.crt": "https://snib.racpast.com/files/SNIBypassCrt.crt",
-    "nginx.conf": "https://snib.racpast.com/files/nginx.conf",
-    "SNIBypassGUI.exe": "https://snib.racpast.com/files/SNIBypassGUI.exe"
-  },
-  "release_notes": "修复了未能正确记录适配器原信息的问题，调整了更新来源。",
-  "sha256": "34742ac63639a0d715b5ce3e048109c2ca34b6931908e1a6d7671040cce519a4"
+    "version": "V1.0.0",
+    "timestamp": 1768801427,
+    "executable": {
+        "update_required": true,
+        "hash": "11078ea8345c612854181a84cf9d056d13b8e58d37155515032d81d407865f88",
+        "parts": [
+            "https://snib.racpast.com/files/update.zip.part000",
+            "https://snib.racpast.com/files/update.zip.part001"
+        ]
+    },
+    "assets": [
+        {
+            "path": "data/AcrylicHosts_All.dat",
+            "url": "https://snib.racpast.com/files/data/AcrylicHosts_All.dat",
+            "hash": "42bf932e3f89a474856876c43e0562912ea459abb03ab508ab55f6f4986ef644"
+        },
+        {
+            "path": "data/SwitchData.json",
+            "url": "https://snib.racpast.com/files/data/SwitchData.json",
+            "hash": "9cb745f242c5fe9b420766032d51c536b13154ba69a5e1d3b4d969a35b8ceba9"
+        },
+        {
+            "path": "data/core/conf/nginx.conf",
+            "url": "https://snib.racpast.com/files/data/core/conf/nginx.conf",
+            "hash": "a7c4e8c6f7bdcf01177f2432586410a0c873d98aaa878fe0704954e58cf25b35"
+        },
+        {
+            "path": "data/core/conf/ca/SNIBypassCrt.crt",
+            "url": "https://snib.racpast.com/files/data/core/conf/ca/SNIBypassCrt.crt",
+            "hash": "0bce9723b0c642cbb0ffc206abf71b305539438524ce50de99c23835bf5bb9e6"
+        }
+    ]
 }
