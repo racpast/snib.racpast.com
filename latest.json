@@ -1,24 +1,18 @@
 {
     "version": "V4.7",
-    "timestamp": 1768802138,
+    "timestamp": 1770091810,
     "executable": {
         "update_required": true,
-        "hash": "11078ea8345c612854181a84cf9d056d13b8e58d37155515032d81d407865f88",
+        "hash": "4cc54dc1cf283e3f8908263594262ea1b6dd4323754757be971a0adfc0504cfb",
         "parts": [
-            "https://snib.racpast.com/files/update.zip.part000",
-            "https://snib.racpast.com/files/update.zip.part001"
+            "https://snib.racpast.com/files/update.zip.part000"
         ]
     },
     "assets": [
         {
-            "path": "data/AcrylicHosts_All.dat",
-            "url": "https://snib.racpast.com/files/data/AcrylicHosts_All.dat",
-            "hash": "42bf932e3f89a474856876c43e0562912ea459abb03ab508ab55f6f4986ef644"
-        },
-        {
-            "path": "data/SwitchData.json",
-            "url": "https://snib.racpast.com/files/data/SwitchData.json",
-            "hash": "9cb745f242c5fe9b420766032d51c536b13154ba69a5e1d3b4d969a35b8ceba9"
+            "path": "data/ProxyRules.json",
+            "url": "https://snib.racpast.com/files/data/ProxyRules.json",
+            "hash": "57829295841f5812d7c59ece775c99368e060baee838cdf3964a3ad408e4c88d"
         },
         {
             "path": "data/core/conf/nginx.conf",
