@@ -1,6 +1,6 @@
 {
     "version": "V4.7",
-    "timestamp": 1770091926,
+    "timestamp": 1770092901,
     "executable": {
         "update_required": true,
         "hash": "4cc54dc1cf283e3f8908263594262ea1b6dd4323754757be971a0adfc0504cfb",
@@ -15,18 +15,13 @@
             "hash": "57829295841f5812d7c59ece775c99368e060baee838cdf3964a3ad408e4c88d"
         },
         {
-            "path": "data/ProxyRules.json",
-            "url": "https://snib.racpast.com/files/data/ProxyRules.json",
-            "hash": "57829295841f5812d7c59ece775c99368e060baee838cdf3964a3ad408e4c88d"
-        },
-        {
-            "path": "data/core/conf/nginx.conf",
-            "url": "https://snib.racpast.com/files/data/core/conf/nginx.conf",
+            "path": "Data/core/conf/nginx.conf",
+            "url": "https://snib.racpast.com/files/Data/core/conf/nginx.conf",
             "hash": "a7c4e8c6f7bdcf01177f2432586410a0c873d98aaa878fe0704954e58cf25b35"
         },
         {
-            "path": "data/core/conf/ca/SNIBypassCrt.crt",
-            "url": "https://snib.racpast.com/files/data/core/conf/ca/SNIBypassCrt.crt",
+            "path": "Data/core/conf/ca/SNIBypassCrt.crt",
+            "url": "https://snib.racpast.com/files/Data/core/conf/ca/SNIBypassCrt.crt",
             "hash": "0bce9723b0c642cbb0ffc206abf71b305539438524ce50de99c23835bf5bb9e6"
         }
     ]
