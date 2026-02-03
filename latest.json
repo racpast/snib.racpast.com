@@ -1,6 +1,6 @@
 {
     "version": "V4.7",
-    "timestamp": 1770091810,
+    "timestamp": 1770091926,
     "executable": {
         "update_required": true,
         "hash": "4cc54dc1cf283e3f8908263594262ea1b6dd4323754757be971a0adfc0504cfb",
@@ -9,6 +9,11 @@
         ]
     },
     "assets": [
+        {
+            "path": "Data/ProxyRules.json",
+            "url": "https://snib.racpast.com/files/Data/ProxyRules.json",
+            "hash": "57829295841f5812d7c59ece775c99368e060baee838cdf3964a3ad408e4c88d"
+        },
         {
             "path": "data/ProxyRules.json",
             "url": "https://snib.racpast.com/files/data/ProxyRules.json",
