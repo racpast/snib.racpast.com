@@ -1,9 +1,9 @@
 {
     "version": "V4.7",
-    "timestamp": 1770093292,
+    "timestamp": 1770245361,
     "executable": {
         "update_required": true,
-        "hash": "4cc54dc1cf283e3f8908263594262ea1b6dd4323754757be971a0adfc0504cfb",
+        "hash": "835071dea343d357c6ad71efa016db321c4b2b41638008fc75e060ce5f5afda4",
         "parts": [
             "https://snib.racpast.com/files/update.zip.part000"
         ]
@@ -17,7 +17,7 @@
         {
             "path": "Data/Core/conf/nginx.conf",
             "url": "https://snib.racpast.com/files/Data/Core/conf/nginx.conf",
-            "hash": "a7c4e8c6f7bdcf01177f2432586410a0c873d98aaa878fe0704954e58cf25b35"
+            "hash": "b74cf600544254c03d578da1d72788ea48ffecb902dc04de1bcc876948169c00"
         },
         {
             "path": "Data/Core/conf/ca/SNIBypassCrt.crt",
