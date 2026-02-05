@@ -1,6 +1,6 @@
 {
     "version": "V4.7",
-    "timestamp": 1770245361,
+    "timestamp": 1770305105,
     "executable": {
         "update_required": true,
         "hash": "835071dea343d357c6ad71efa016db321c4b2b41638008fc75e060ce5f5afda4",
@@ -12,7 +12,7 @@
         {
             "path": "Data/ProxyRules.json",
             "url": "https://snib.racpast.com/files/Data/ProxyRules.json",
-            "hash": "57829295841f5812d7c59ece775c99368e060baee838cdf3964a3ad408e4c88d"
+            "hash": "4e7c775d680644c035d6ee77be08f25f293d0207e9cc747c2c94f7d155ec8788"
         },
         {
             "path": "Data/Core/conf/nginx.conf",
