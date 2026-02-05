@@ -1,9 +1,9 @@
 {
-    "version": "V4.7",
-    "timestamp": 1770305105,
+    "version": "V4.7.1",
+    "timestamp": 1770307174,
     "executable": {
         "update_required": true,
-        "hash": "835071dea343d357c6ad71efa016db321c4b2b41638008fc75e060ce5f5afda4",
+        "hash": "40db0502eea8e31a0c5dd8ac3781e6026b3e36047acf9b5e32ad0656a21c55c4",
         "parts": [
             "https://snib.racpast.com/files/update.zip.part000"
         ]
@@ -22,7 +22,7 @@
         {
             "path": "Data/Core/conf/ca/SNIBypassCrt.crt",
             "url": "https://snib.racpast.com/files/Data/Core/conf/ca/SNIBypassCrt.crt",
-            "hash": "0bce9723b0c642cbb0ffc206abf71b305539438524ce50de99c23835bf5bb9e6"
+            "hash": "15f9850edb3372ec13be3de1ba55f8190152e7e85dbfa011eb2cbec706195f0c"
         }
     ]
 }
