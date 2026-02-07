@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "BootstrapDns": "223.5.5.5",
+  "Servers": [
+    {
+      "Type": "Primary",
+      "Protocol": "DOH",
+      "Host": "k9s2m7v4b3x8n1p5w6j2.racpast.com",
+      "Path": "/dns-query",
+      "Port": 443
+    },
+    {
+      "Type": "Secondary",
+      "Protocol": "DOH",
+      "Host": "q8z4c1v9b6n2m5x3d7r4.racpast.com",
+      "Path": "/dns-query",
+      "Port": 443
+    },
+    {
+      "Type": "Tertiary",
+      "Protocol": "DOH",
+      "Host": "w1p5f9g2h6j3k7l4s8d0.racpast.com",
+      "Path": "/dns-query",
+      "Port": 443
+    },
+    {
+      "Type": "Quaternary",
+      "Protocol": "DOH",
+      "Host": "t7y2u4i1o9p3a5s6d8f0.racpast.com",
+      "Path": "/dns-query",
+      "Port": 443
+    },
+    {
+      "Type": "Quinary",
+      "Protocol": "DOH",
+      "Host": "m3n1b6v9c4x7z2l5k8j0.racpast.com",
+      "Path": "/dns-query",
+      "Port": 443
+    },
+    {
+      "Type": "Senary",
+      "Protocol": "DOH",
+      "Host": "g4h2j9k1l5s8d3f7a6p0.racpast.com",
+      "Path": "/dns-query",
+      "Port": 443
+    },
+    {
+      "Type": "Septenary",
+      "Protocol": "DOH",
+      "Host": "v2b9n4m1x6z3c8r5t7y0.racpast.com",
+      "Path": "/dns-query",
+      "Port": 443
+    }
+  ]
+}
