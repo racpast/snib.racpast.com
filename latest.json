@@ -1,9 +1,9 @@
 {
-    "version": "V4.7.1",
-    "timestamp": 1770307174,
+    "version": "V4.7.2",
+    "timestamp": 1775511765,
     "executable": {
         "update_required": true,
-        "hash": "40db0502eea8e31a0c5dd8ac3781e6026b3e36047acf9b5e32ad0656a21c55c4",
+        "hash": "914fc5cc9fcccf94a733d7e5b3c23aa93643b84f8aa0a0ce1304bee4d0835a88",
         "parts": [
             "https://snib.racpast.com/files/update.zip.part000"
         ]
@@ -12,12 +12,17 @@
         {
             "path": "Data/ProxyRules.json",
             "url": "https://snib.racpast.com/files/Data/ProxyRules.json",
-            "hash": "4e7c775d680644c035d6ee77be08f25f293d0207e9cc747c2c94f7d155ec8788"
+            "hash": "0700812cc7c7f2b94c46c9c16cc52a9f46951025389b5b1776240d40291cd05c"
+        },
+        {
+            "path": "Data/Acrylic/AcrylicConfiguration.Template.ini",
+            "url": "https://snib.racpast.com/files/Data/Acrylic/AcrylicConfiguration.Template.ini",
+            "hash": "90d4dbba06a9f03f1e201b5c4c027713f0b6a6ba674f7d3a296b3345ad97aea8"
         },
         {
             "path": "Data/Core/conf/nginx.conf",
             "url": "https://snib.racpast.com/files/Data/Core/conf/nginx.conf",
-            "hash": "b74cf600544254c03d578da1d72788ea48ffecb902dc04de1bcc876948169c00"
+            "hash": "f1dd33e5de48821b90f27aa262a465257da58c6993b710fa61a63ce2a5ee906e"
         },
         {
             "path": "Data/Core/conf/ca/SNIBypassCrt.crt",
